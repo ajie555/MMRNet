@@ -8,7 +8,7 @@
 
 ## MOSUM
 
-![](.\pic\MOSUM.png)
+![](./pic/MOSUM.png)
 
 ## Flash-MUSE Attention
 
