@@ -18,4 +18,4 @@
 
 ### Pack
 
-![](.\pic\Pack-Predicted.png)
+![](./pic/Pack-Predicted.png)
